@@ -1,3 +1,13 @@
 ![ConqueringEurope](https://raw.githubusercontent.com/Monsterfisch/ConqueringEurope_-Stronghold1_textures-/refs/heads/main/image.jpg)
 
-Gives Crusader a European look with textures based on Stronghold 1.
+A Stronghold 1 based texture edit.
+
+happy besieging!
+
+Monsterfish_
+
+Credits go to:
+- Firefly for the original files
+- Heroesflorian for feedback and nörgeln
+- Krarilotus for assisting with the publishing
+- Nevikov for the persuasion
