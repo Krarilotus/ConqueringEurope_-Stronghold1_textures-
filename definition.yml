@@ -3,8 +3,8 @@ author: Monsterfish_
 version: 1.0.1
 dependencies:
   files: ^1.2.0
-  framework: '>=3.0.5'
-  frontend: '>=1.0.9'
+  framework: ">=3.0.5"
+  frontend: ">=1.0.9"
 tags:
 - textures
 display-name: Conquering Europe
